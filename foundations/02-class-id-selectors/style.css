@@ -1,0 +1,19 @@
+.oddElement {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: rgb(255, 182, 193);
+}
+
+#firstDev {
+    font-size: 36px;
+    color: blue;
+}
+
+.secondParagraph {
+    font-size: 24px;
+}
+
+#secondDev {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
